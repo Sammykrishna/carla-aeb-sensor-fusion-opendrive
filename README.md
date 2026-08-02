@@ -8,9 +8,9 @@ This project was submitted as a Scientific Project for the M.Sc. Mechatronics pr
 
 | Scenario | What happens | Video |
 |---|---|---|
-| 1: CCRs | Ego car approaches a stationary lead car | *add video link* |
-| 2: CCRm | Ego car approaches a lead car moving at a constant 20 km/h | *add video link* |
-| 3: CCRb | Lead car drives ahead then brakes hard | *add video link* |
+| 1: CCRs | Ego car approaches a stationary lead car |https://github.com/user-attachments/assets/8f938fc1-bb42-4810-8e96-2c1437eeb1f9 |
+| 2: CCRm | Ego car approaches a lead car moving at a constant 20 km/h | https://github.com/user-attachments/assets/a70e4862-8519-44c6-aecd-99530385a415|
+| 3: CCRb | Lead car drives ahead then brakes hard | https://github.com/user-attachments/assets/1e3282a5-a610-4e43-8147-52b4d4812d2e|
 
 ## What the system does
 
